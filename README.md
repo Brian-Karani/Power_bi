@@ -1,6 +1,7 @@
 # Power_bi
 Sales-Data-Visualization
 # Sales Analysis with Power BI
+![fulldashbord](https://github.com/Brian-Karani/Power_bi/assets/146339584/fd3f698f-d3fc-4fec-984b-8e7790fcc447)
 
 ## Overview
 This Power BI project is designed to analyze credit approval applications using historical data. It provides insights into the factors influencing credit decisions and visualizes key metrics related to credit approval.
